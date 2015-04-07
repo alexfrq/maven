@@ -1,0 +1,3 @@
+This is the command typed in at the command prompt during the video.
+
+mvn archetype:generate -DgroupId=com.yourcompany -DartifactId=helloWorldApp -DarchetypeArtifactId=maven-archetype-quickstart -Dversion=1.0-SNAPSHOT
